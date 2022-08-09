@@ -9,11 +9,7 @@ def Run():
     user_win_list = ["Egor"]
 
 def RunGreating():
-    pass
+    print("Hi")
 
 def Run_film():
     pass
-#yggyghghghhhhh
-# hi i am Egor Savinov !!!
-#|||||||||||||||||||||||||||
-

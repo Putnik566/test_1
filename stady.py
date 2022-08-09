@@ -1,9 +1,7 @@
-def user():
-    pass
-### change >>>>>> ...... >>>>>> /////// ...........
+def user(name_user, age_user):
+    result = f'name: {name_user}, age: {age_user}'
+    print(result)
 
 
-#$$$$$$$$$$$$$$$$$$
-"""TO DO"""
-#|||||||||||
+user(name_user=Egor, age_user=17)
 
